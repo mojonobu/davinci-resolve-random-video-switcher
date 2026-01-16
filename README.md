@@ -2,7 +2,7 @@
 
 A Python automation tool for DaVinci Resolve that splits video clips at regular intervals and randomly selects which clip to display at each segment. This creates a dynamic video switching effect across multiple video tracks.
 
-![Demo](resources/VideoSwitcher.gif)
+![Demo](resources/RandomVideoSwitcher.gif)
 
 ## Table of Contents
 
