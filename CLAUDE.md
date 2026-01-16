@@ -25,7 +25,7 @@ Or place scripts in the Resolve Scripts folder to run from the Workspace menu:
 
 ### Core Components
 
-- `src/RandomVideoSwitcher.py` - Main script that splits clips on video track 1 at 3-second intervals
+- `src/RandomVideoSwitcher.py` - Main script that splits clips on video track 1 at 10-second intervals
 - `src/python_get_resolve.py` - Utility module to obtain the DaVinci Resolve scripting object (handles cross-platform module discovery)
 
 ### DaVinci Resolve API Object Hierarchy
